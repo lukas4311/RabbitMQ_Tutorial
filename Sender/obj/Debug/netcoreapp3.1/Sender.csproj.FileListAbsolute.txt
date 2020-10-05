@@ -1,0 +1,12 @@
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\obj\Debug\netcoreapp3.1\Sender.csprojAssemblyReference.cache
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache

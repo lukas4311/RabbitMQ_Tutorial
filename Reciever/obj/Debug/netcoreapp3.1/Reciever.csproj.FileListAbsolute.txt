@@ -1,0 +1,12 @@
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\bin\Debug\netcoreapp3.1\Reciever.exe
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\bin\Debug\netcoreapp3.1\Reciever.deps.json
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\bin\Debug\netcoreapp3.1\Reciever.runtimeconfig.json
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\bin\Debug\netcoreapp3.1\Reciever.runtimeconfig.dev.json
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\bin\Debug\netcoreapp3.1\Reciever.dll
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\bin\Debug\netcoreapp3.1\Reciever.pdb
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\obj\Debug\netcoreapp3.1\Reciever.csprojAssemblyReference.cache
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\obj\Debug\netcoreapp3.1\Reciever.AssemblyInfoInputs.cache
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\obj\Debug\netcoreapp3.1\Reciever.AssemblyInfo.cs
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\obj\Debug\netcoreapp3.1\Reciever.dll
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\obj\Debug\netcoreapp3.1\Reciever.pdb
+D:\VSProjects\VisualStudio2019\RabbitMq_Test\Reciever\obj\Debug\netcoreapp3.1\Reciever.genruntimeconfig.cache
