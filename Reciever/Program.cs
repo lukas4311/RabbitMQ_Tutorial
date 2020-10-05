@@ -6,7 +6,8 @@ namespace Reciever
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            RecieverService recieverService = new RecieverService();
+            recieverService.RecieverMessage();
         }
     }
 }

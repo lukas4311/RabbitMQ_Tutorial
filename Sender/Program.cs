@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 
 namespace Sender
 {
@@ -6,7 +7,8 @@ namespace Sender
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SenderService senderService = new SenderService();
+            senderService.SendMessage();
         }
     }
 }
